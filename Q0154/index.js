@@ -16,7 +16,7 @@ admin = name;
 alert( admin );
 
 
-let currentUserName = "The Current user Name is ISMAIL";
+let currentUserName = "The Current user Name is Rabia";
 
 alert( currentUserName );
 
